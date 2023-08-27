@@ -44,7 +44,7 @@ header nav a {
 }
 	header nav a:hover,
 	header nav a.activo {
-		color: hsl(41, 22%, 28%);
+		color: hsl(40, 30%, 14%);
 }
 
 /* ----------------------------- FOTOS DEL CATALOGO ----------------------------- */
@@ -58,7 +58,7 @@ header nav a {
   font-family: 'Poppins', sans-serif;
 }
 ::selection{
-  color: #fff;
+  color: #f0e8e8;
   background: #007bff;
 }
 body{
@@ -87,7 +87,7 @@ body{
 	border: none;
 	border-radius: 0.20em;
 	padding: 0.93em 1.87em;
-	color: hsl(41, 29%, 73%);
+	color: hsl(0, 0%, 0%);
 	margin-right: .50em;
 	cursor: pointer;
 	transition: .3s ease all;
